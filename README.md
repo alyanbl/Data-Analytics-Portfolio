@@ -1,17 +1,20 @@
 # Data Analytics Portfolio
-Welcome to my Data Analytics Portfolio! This repository showcases a collection of projects that demonstrate my skills in data analysis, business intelligence, and data-driven decision making. Each project highlights datasets, analytical workflows, and insights, providing a professional overview of my experience in turning data into actionable outcomes.
+Welcome to my Data Analytics Portfolio!
+
+This repository presents a curated collection of projects that showcase my expertise in data analysis, business intelligence, and data-driven decision-making. Each project highlights datasets, analytical workflows, and key insights, offering a professional overview of my ability to transform data into actionable strategies and solutions.
 
 ### Project Overview
-- [**Marketplace Sales and Logistics Performance Analysis (2016-2018)**](https://github.com/alyanbl/-MARKETPLACE-SALES-AND-LOGISTICS-PERFORMANCE-ANALYSIS-2016-2018-)
-    - **Description**: This project provides a comprehensive analysis of sales and logistics performance for a marketplace over the period 2016–2018. The goal is to uncover trends, identify operational bottlenecks, and provide actionable insights to improve business efficiency and decision-making.
-    - **Tools**:
-        - Excel (Power Query and Pivot Tables)
-        - Canva (Visualizations and presentation slide)
 - [**Employee Attrition Analysis**](https://github.com/alyanbl/Employee-Attrition-Analysis)
-    - **Description**: This project analyzes employee attrition patterns to uncover trends and factors influencing employees decisions to leave the company. The goal is to identify high-risk employee groups and provide actionable insights for improving retention and workplace satisfaction.
+    - **Description**: This project analyzes employee attrition to identify the key factors that influencing employees’ decisions to leave the company. The objective is to pinpoint high-risk employee groups and provide actionable insights to support retention strategies and improve workplace satisfaction.
     - **Tools**:
         - Power BI (DAX, Interactive dashboard)
         - PowerPoint (Visualizations and presentation slide)
-     
+- [**Marketplace Sales and Logistics Performance Analysis (2016-2018)**](https://github.com/alyanbl/-MARKETPLACE-SALES-AND-LOGISTICS-PERFORMANCE-ANALYSIS-2016-2018-)
+    - **Description**: This project provides a comprehensive analysis of sales and logistics performance for a marketplace during the period 2016–2018. The objective is to examine product categories with longer delivery times and generate actionable insights to improve operational efficiency and support better business decision-making.
+    - **Tools**:
+        - Excel (Power Query and Pivot Tables)
+        - Canva (Visualizations and presentation slide)
+
+**and more projects will be uploaded soon!**
 ### Connect with me!
 Let's connect with me on [LinkedIn](https://www.linkedin.com/in/alyanabilaputri/)
