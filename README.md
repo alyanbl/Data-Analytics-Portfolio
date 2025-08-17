@@ -9,11 +9,16 @@ This repository presents a curated collection of projects that showcase my exper
     - **Tools**:
         - Power BI (DAX, Interactive dashboard)
         - PowerPoint (Visualizations and presentation slide)
+
+          <img width="1450" height="824" alt="image" src="https://github.com/user-attachments/assets/13673d4c-b719-440e-8494-7107d1160b6f" />
+
 - [**Marketplace Sales and Logistics Performance Analysis (2016-2018)**](https://github.com/alyanbl/-MARKETPLACE-SALES-AND-LOGISTICS-PERFORMANCE-ANALYSIS-2016-2018-)
     - **Description**: This project provides a comprehensive analysis of sales and logistics performance for a marketplace during the period 2016–2018. The objective is to examine product categories with longer delivery times and generate actionable insights to improve operational efficiency and support better business decision-making.
     - **Tools**:
         - Excel (Power Query and Pivot Tables)
         - Canva (Visualizations and presentation slide)
+
+          <img width="1443" height="812" alt="image" src="https://github.com/user-attachments/assets/f7cd620f-2bf2-4651-95e9-07bc81fb572e" />
 
 **and more projects will be uploaded soon!**
 ### Connect with me!
