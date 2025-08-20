@@ -5,13 +5,14 @@ This repository presents a curated collection of projects that showcase my exper
 
 ### Project Overview
 - [**Customer Segmentation Anaysis**](https://github.com/alyanbl/Customer-Segmentation-Analysis)
-  - **Description**: This project analyzes customer behavior to identify key segments and their purchasing patterns. The objective is to understand which customer groups are most numerous and provide actionable strategies to maximize growth from underutilized segments.
+    - **Description**: This project analyzes customer behavior to identify key segments and their purchasing patterns. The objective is to understand which customer groups are most numerous and provide actionable strategies to maximize growth from underutilized segments.
     - **Tools**:
         - Python (Data cleaning: remove duplicates, handle missing values)
         - SQL (Update/drop columns, Analysis using SELECT, GROUP BY, AVG, SUM, CASE)
         - PowerPoint (Visual storytelling of key findings)
 
-           <img width="1463" height="826" alt="image" src="https://github.com/user-attachments/assets/3b75a039-e253-4fd4-80fa-85029d61cdbb" />
+          <img width="1451" height="819" alt="image" src="https://github.com/user-attachments/assets/d9f6a41a-06bf-43d4-bdb5-e881c27626c2" />
+
 
 - [**Employee Attrition Analysis**](https://github.com/alyanbl/Employee-Attrition-Analysis)
     - **Description**: This project analyzes employee attrition to identify the key factors that influencing employees’ decisions to leave the company. The objective is to pinpoint high-risk employee groups and provide actionable insights to support retention strategies and improve workplace satisfaction.
