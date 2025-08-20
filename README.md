@@ -4,6 +4,15 @@ Welcome to my Data Analytics Portfolio!
 This repository presents a curated collection of projects that showcase my expertise in data analysis, business intelligence, and data-driven decision-making. Each project highlights datasets, analytical workflows, and key insights, offering a professional overview of my ability to transform data into actionable strategies and solutions.
 
 ### Project Overview
+- [**Customer Segmentation Anaysis**](https://github.com/alyanbl/Customer-Segmentation-Analysis)
+  - **Description**: This project analyzes customer behavior to identify key segments and their purchasing patterns. The objective is to understand which customer groups are most numerous and provide actionable strategies to maximize growth from underutilized segments.
+    - **Tools**:
+        - Python (Data cleaning: remove duplicates, handle missing values)
+        - SQL (Update/drop columns, Analysis using SELECT, GROUP BY, AVG, SUM, CASE)
+        - PowerPoint (Visual storytelling of key findings)
+
+           <img width="1463" height="826" alt="image" src="https://github.com/user-attachments/assets/3b75a039-e253-4fd4-80fa-85029d61cdbb" />
+
 - [**Employee Attrition Analysis**](https://github.com/alyanbl/Employee-Attrition-Analysis)
     - **Description**: This project analyzes employee attrition to identify the key factors that influencing employees’ decisions to leave the company. The objective is to pinpoint high-risk employee groups and provide actionable insights to support retention strategies and improve workplace satisfaction.
     - **Tools**:
